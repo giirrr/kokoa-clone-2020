@@ -1,22 +1,27 @@
 /* Font*/
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap");
 
 /* Reset*/
-@import "reset.css"; 
+@import "reset.css";
 @import "variable.css";
 
 /* Components */
-@import "components/status-bar.css"; 
+@import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
+@import "components/badge.css";
 
 /*  Screens  */
 @import "screens/login.css";
 @import "screens/friends.css";
 
 body {
-    color: #2F363E;
-    font-family: 'Open Sans', sans-serif;
-    height: 1000vh;
+  color: #2f363e;
+  font-family: "Open Sans", sans-serif;
+  height: 1000vh;
+}
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }

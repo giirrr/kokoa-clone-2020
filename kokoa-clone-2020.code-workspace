@@ -1,13 +1,16 @@
 {
-	"folders": [
-		{
-			"name": "kokoa-clone-2020",
-			"path": "."
-		},
-		{
-			"name": "screenshots",
-			"path": "../screenshots"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "name": "kokoa-clone-2020",
+      "path": "."
+    },
+    {
+      "name": "screenshots",
+      "path": "../screenshots"
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false
+  }
 }
