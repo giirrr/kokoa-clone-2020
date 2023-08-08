@@ -20,7 +20,16 @@
     font-weight: 600;
     font-size: 22px;
 }
+.user-component__subtitle-more  {
+    color: var(--gray);
+    margin-top: 15px;
+}
 
+.user-component__subtitle-more i {
+    margin-left: 10px;
+    color: red;
+
+}
 .user-component__subtitle {
     margin-top: 8px;
     font-size: 17px;
@@ -50,6 +59,7 @@
     align-items: flex-end;
     
 }
+.user
 
 .user-component__time {
     margin-bottom: 10px;
