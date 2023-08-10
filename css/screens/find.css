@@ -2,8 +2,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
 
+}
+.open-post2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: var(--main-border);
+}
 .open-post__photo{
     position: relative;
 }
