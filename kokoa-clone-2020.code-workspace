@@ -11,6 +11,7 @@
   ],
   "settings": {
     "editor.defaultFormatter": null,
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "liveServer.settings.multiRootWorkspaceName": "kokoa-clone-2020"
   }
 }
